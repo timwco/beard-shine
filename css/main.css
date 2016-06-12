@@ -1,0 +1,20 @@
+body {
+  background: url(../images/background.png) repeat 0 0;
+}
+
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.centered {
+	max-width: 449px;
+	left: 50%;
+	position: fixed;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+.centered img { max-width: 100%; }
