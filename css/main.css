@@ -1,7 +1,17 @@
 body {
-  background: url(../images/background.png) repeat 0 0;
+  background-color: #f0efea;
+  font-family: 'Roboto Slab', serif;
 }
 
+h1 {
+  font-size: 25px;
+  text-align:center;
+}
+
+.atlanta {
+  width: 125px;
+  margin-top: 75px;
+}
 
 .container {
   text-align: center;
