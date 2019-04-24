@@ -140,11 +140,11 @@ button{
   color:#444;
   transition:all ease .5s
 }
-.product-item a:hover{
+.product-item:hover{
   background:rgba(225,225,225,.9)
 }
-.product-item a:hover .col-detail{
-  display:block
+.product-item:hover .col-detail {
+  display: block;
 }
 .product-item .price-tag{
   padding:15px;
